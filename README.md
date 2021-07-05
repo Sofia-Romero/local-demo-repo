@@ -1,10 +1,8 @@
-﻿using System;
-namespace local_demo_repo
-{
-	public class README
-	{
-		public README()
-		{
-		}
-	}
-}
+﻿# Demo 2
+
+## Local development
+
+Trying to push this readme file to github.
+
+
+
